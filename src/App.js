@@ -10,8 +10,11 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <h1>
-          Coucou Alex
+          En Chantier
         </h1>
+        <h2>
+        <img src="https://drive.google.com/thumbnail?id='https://drive.google.com/file/d/1dl_b3b8Oa8nv3cvRyboynVv5LFGa8_mS/view?usp=sharing'" alt=""></img>
+        </h2>
         <a
           className="App-link"
           href="https://reactjs.org"
